@@ -42,10 +42,8 @@ It is compatible with all major operating systems..
 [Back to Top ⬆️](#top)
 
 <h2 id="installation"> 🛠️ Installation</h2>
-To run Fusion Bites Restaurant locally, follow these steps:
+To run  locally, follow these steps:
 <br>
-
-- [Repository Link] (https://github.com/Kaiserabbas/Math-Magicians.git)
 
 - Clone this repository to your local machine.<br>
 - Install all the necessary dependencies using npm install.<br>
@@ -93,7 +91,7 @@ We welcome contributions from the open-source community! If you find any issues 
 [Back to Top ⬆️](#top)
 
 <h2 id="author">👥 Author </h2>
-👤 Qaisar Abbas<br>
+👤 misikir teka<br>
 Full stack developers with 3+ years of experience building user-friendly and interactive web applications. Proven ability to work independently and as part of a team to deliver high-quality products.
 
 [Back to Top ⬆️](#top)
