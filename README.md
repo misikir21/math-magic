@@ -1,5 +1,4 @@
-﻿<img src="./src/assets/logo.png">
-<br> <br> 
+ 
 <h1>📟 Math Magician</h1>
 Welcome to Math Magician GitHub repository! This repository contains all the necessary information and resources related to the Math Magicians project.<br>
 It contains React component that will hold the core functionality: a calculator. I have added the logic needed to make the Calculator component to actually work and fetched data from an external API to display "quotes" alongside your calculator.
